@@ -43,6 +43,8 @@ Reference characteristic curve from the supplied lab record.
 8. OBSERVATION / TABULATION
 Gate current, IG: 0.7 mA
 VAK (V)	IAK (mA)
+	<img width="874" height="172" alt="image" src="https://github.com/user-attachments/assets/99a4fae2-5280-405d-93eb-8006ee8fdfc6" />
+
 	
 	
 	
@@ -55,13 +57,10 @@ VAK (V)	IAK (mA)
 	
 	
 	
-	
-	
-9. CALCULATIONS / GRAPH
-Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
-Holding voltage, VH ≈ 0.72 V (from the recorded observation).
-Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
-Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
+GRAPH:
+
+<img width="933" height="193" alt="image" src="https://github.com/user-attachments/assets/451d1ce3-0bc5-48f2-97e9-627072e7b63d" />
+
 10. RESULT
 The V-I characteristics of the SCR have been studied and plotted.
 Forward breakover voltage, VBO = 11.5 V.
